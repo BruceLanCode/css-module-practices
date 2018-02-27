@@ -1,0 +1,9 @@
+
+.lantu {
+	background-color: blue;
+}
+
+.title {
+	color: red;
+	composes: lantu;
+}
